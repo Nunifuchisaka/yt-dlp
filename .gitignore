@@ -2,3 +2,5 @@
 /yt-dlp.exe
 *.mp4
 *.webm
+*.txt
+/tmp
